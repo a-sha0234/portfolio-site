@@ -4,6 +4,7 @@ import Contact from "./Pages/Contact";
 import Home from "./Pages/Home";
 import Portfolio from "./Pages/Portfolio";
 import Error from "./Pages/Error";
+import "./scss/style.scss";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 export default function App() {

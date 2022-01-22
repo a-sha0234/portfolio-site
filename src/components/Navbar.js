@@ -4,11 +4,17 @@ import { Link } from "react-router-dom";
 export default function Navbar() {
   return (
     <header>
-      <nav>
+      <nav className="navbar">
         <ul>
-          <Link to="/">Home</Link>
-          <Link to="/portfolio">Portfolio</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/" className="navbar__links">
+            Home
+          </Link>
+          <Link to="/portfolio" className="navbar__links">
+            Portfolio
+          </Link>
+          <Link to="/contact" className="navbar__links">
+            Contact
+          </Link>
         </ul>
       </nav>
     </header>
