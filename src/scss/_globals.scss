@@ -38,7 +38,7 @@
 
   // End of home page styling
   //-----------------------------------------------------------------------------------------
-  // Start of portfolio page and card  styling
+  // Start of Portfolio page and card  styling
 
   .card {
     display: flex;
@@ -62,5 +62,27 @@
     }
   }
 
-  // End of portfolio page and card styling
+  // End of Portfolio page and card styling
+  //-----------------------------------------------------------------------------------------
+  // Start of Contact page styling
+
+  .contact {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .verticalLine {
+    border: 0.01px solid black;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  h1 {
+    font-family: $fontStyle;
+  }
+  .contact > p {
+    margin-top: 10px;
+    font-family: $fontStyle;
+  }
+
+  // End of contact page styling
 }

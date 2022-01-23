@@ -2,7 +2,6 @@ import React from "react";
 import codeArrow from "./codeArrow.png";
 
 export default function Card(props) {
-  console.log(props);
   return (
     <main className="card">
       <div className="card__display">
