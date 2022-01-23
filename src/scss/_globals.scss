@@ -4,8 +4,12 @@
   box-sizing: border-box;
   //css reset
 }
+//-----------------------------------------------------------------------------------------
+// handle reposonsive design
+//-----------------------------------------------------------------------------------------
 
 @media only screen and (max-width: 480px) {
+  // Start of home page styling
   .wrapper {
   }
   .information {
@@ -29,6 +33,30 @@
       &__left > p {
         @include skillSet;
       }
+    }
+  }
+
+  // End of home page styling
+  //-----------------------------------------------------------------------------------------
+  // Start of portfolio page styling
+  // Card
+  .card {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    height: 80px;
+    font-family: $fontStyle;
+    background-color: #ebebeb;
+
+    &__button {
+      border: none;
+      background-color: #ebebeb;
+      margin-top: 10%;
+    }
+    &__arrow {
+      height: 30px;
+      width: 30px;
+      margin-left: 10px;
     }
   }
 }

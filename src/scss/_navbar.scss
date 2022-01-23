@@ -10,8 +10,9 @@
     display: flex;
     justify-content: center;
     margin-bottom: 10px;
-    background-color: #e1d9d1;
+    background-color: #ebebeb;
     padding: 20px;
+    box-shadow: 1px 0.2px black;
 
     &__links {
       list-style: none;
