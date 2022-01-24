@@ -1,13 +1,3 @@
-@mixin skillSet() {
-  border: 2px dotted black;
-  border-radius: 5px;
-  text-align: center;
-  margin: 10px;
-  font-weight: bold;
-  display: inline-block;
-  padding: 5px;
-}
-
 //-----------------------------------------------------------------------------------------
 // Navbar styles
 //-----------------------------------------------------------------------------------------
@@ -27,4 +17,31 @@
   text-decoration: none;
   font-family: $fontStyle;
   color: black;
+}
+
+//-----------------------------------------------------------------------------------------
+// homepage styles
+//-----------------------------------------------------------------------------------------
+
+@mixin skillSet() {
+  //for responsive design
+  border: 2px dotted black;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px;
+}
+
+@mixin skillSetDesktop() {
+  //for desktop design
+  border: 2px dotted black;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 200px;
+  font-weight: bold;
+  padding: 10px;
+  display: inline-block;
+  font-size: $fontSize;
 }

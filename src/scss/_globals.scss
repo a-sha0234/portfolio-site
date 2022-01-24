@@ -9,6 +9,34 @@
 // handle desktop design
 //-----------------------------------------------------------------------------------------
 
+// Start of home page styling
+
+.information {
+  &__self {
+    text-align: center;
+    font-family: $fontStyle;
+    margin-top: 10vh;
+  }
+
+  &__skills {
+    font-family: $fontStyle;
+    height: 100vh;
+    h2 {
+      text-align: center;
+    }
+
+    &__right > p {
+      @include skillSetDesktop;
+      margin-top: 20px;
+    }
+
+    &__left > p {
+      @include skillSetDesktop;
+      margin-top: 30px;
+    }
+  }
+}
+
 //-----------------------------------------------------------------------------------------
 // handle reposonsive design
 //-----------------------------------------------------------------------------------------
