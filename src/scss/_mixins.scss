@@ -7,3 +7,24 @@
   display: inline-block;
   padding: 5px;
 }
+
+//-----------------------------------------------------------------------------------------
+// Navbar styles
+//-----------------------------------------------------------------------------------------
+
+@mixin navBar() {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  background-color: #ebebeb;
+  padding: 20px;
+  box-shadow: 1px 0.2px black;
+}
+
+@mixin navBarLinks() {
+  list-style: none;
+  font-size: 1.5rem;
+  text-decoration: none;
+  font-family: $fontStyle;
+  color: black;
+}

@@ -1,26 +1,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Old+Standard+TT&display=swap");
 
 //-----------------------------------------------------------------------------------------
+// handle desktop design
+//-----------------------------------------------------------------------------------------
+.navbar {
+  @include navBar;
+
+  &__links {
+    @include navBarLinks;
+    margin: 100px;
+  }
+}
+//-----------------------------------------------------------------------------------------
 // handle reposonsive design
 //-----------------------------------------------------------------------------------------
 
 // Start of navbar
 @media only screen and (max-width: 480px) {
   .navbar {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 10px;
-    background-color: #ebebeb;
-    padding: 20px;
-    box-shadow: 1px 0.2px black;
+    @include navBar;
 
     &__links {
-      list-style: none;
+      @include navBarLinks;
       margin: 10px;
-      font-size: 1.5rem;
-      text-decoration: none;
-      font-family: $fontStyle;
-      color: black;
     }
   }
   // End of navbar
