@@ -9,6 +9,7 @@
   background-color: #ebebeb;
   padding: 20px;
   box-shadow: 1px 0.2px black;
+  width: 100%;
 }
 
 @mixin navBarLinks() {
@@ -34,7 +35,7 @@
   padding: 5px;
 }
 
-@mixin skillSetDesktop() {
+@mixin skillSetDesktop($margin) {
   //for desktop design
   border: 2px dotted black;
   border-radius: 5px;
@@ -44,6 +45,7 @@
   padding: 10px;
   display: inline-block;
   font-size: $fontSize;
+  margin-top: $margin;
 }
 
 //-----------------------------------------------------------------------------------------
@@ -70,10 +72,27 @@
   margin-top: 10%;
   font-family: $fontStyle;
   font-size: $fontSize;
+  cursor: pointer;
 }
 
 @mixin arrow() {
   height: 30px;
   width: 30px;
   margin-left: 10px;
+  cursor: pointer;
+}
+
+//-----------------------------------------------------------------------------------------
+// Contact page styles
+//-----------------------------------------------------------------------------------------
+
+@mixin contact() {
+  text-align: center;
+  margin-top: 40px;
+}
+
+@mixin verticalLine() {
+  border: 0.01px solid black;
+  margin-left: 40px;
+  margin-right: 40px;
 }

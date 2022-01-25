@@ -26,13 +26,11 @@
     }
 
     &__right > p {
-      @include skillSetDesktop;
-      margin-top: 20px;
+      @include skillSetDesktop(20px);
     }
 
     &__left > p {
-      @include skillSetDesktop;
-      margin-top: 30px;
+      @include skillSetDesktop(30px);
     }
   }
 }
@@ -51,6 +49,28 @@
   &__arrow {
     @include arrow;
   }
+}
+// End of Portfolio page styling
+//-----------------------------------------------------------------------------------------
+// Start of contact page styling
+
+.contact {
+  @include contact;
+
+  &__img {
+    height: 500px;
+  }
+}
+
+.verticalLine {
+  @include verticalLine;
+}
+h1 {
+  font-family: $fontStyle;
+}
+.contact > p {
+  margin-top: 10px;
+  font-family: $fontStyle;
 }
 
 //-----------------------------------------------------------------------------------------
@@ -105,14 +125,15 @@
   // Start of Contact page styling
 
   .contact {
-    text-align: center;
-    margin-top: 40px;
+    @include contact;
+
+    &__img {
+      height: 200px;
+    }
   }
 
   .verticalLine {
-    border: 0.01px solid black;
-    margin-left: 40px;
-    margin-right: 40px;
+    @include verticalLine;
   }
   h1 {
     font-family: $fontStyle;

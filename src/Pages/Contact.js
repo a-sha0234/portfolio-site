@@ -1,6 +1,7 @@
 //imports
 import React from "react";
 import contactData from "./ContactDetails";
+import contactImg from "./contactImg.jpg";
 
 export default function Contact() {
   //-----------------------------------------------------------------------------------------
@@ -15,6 +16,7 @@ export default function Contact() {
       <p>Full name: {contactData[0].FullName} </p>
       <p>Mobile number: {contactData[0].MobileNum} </p>
       <p>Email address: {contactData[0].EmailAddress}</p>
+      <img src={contactImg} className="contact__img" />
     </main>
   );
 }
