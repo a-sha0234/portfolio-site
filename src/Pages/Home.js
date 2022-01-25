@@ -7,7 +7,7 @@ export default function Home() {
     <div className="wrapper">
       <main className="information">
         <section className="information__self">
-          <h2>Why front end development </h2>
+          <h2> Front end developer </h2>
           <h3 style={{ margin: "20px" }}>Welcome!</h3>
           <p style={{ margin: "20px", fontSize: "1.2rem" }}>
             Hi, Im Arun. Im interested in front end development. Feel free to
