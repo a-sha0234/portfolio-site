@@ -39,6 +39,7 @@ export default function Navbar() {
             className="navbar__links"
             onClick={handleNavigate}
             name="homeLink"
+            // check if link has been clicked on
             style={
               isNavigate.homeLink === true
                 ? { borderBottom: "5px solid black" }
