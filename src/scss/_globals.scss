@@ -20,7 +20,7 @@
 
   &__skills {
     font-family: $fontStyle;
-    height: 100vh;
+
     h2 {
       text-align: center;
     }
@@ -72,6 +72,7 @@ h1 {
   margin-top: 10px;
   font-family: $fontStyle;
 }
+// End of contact page styling
 
 //-----------------------------------------------------------------------------------------
 // handle reposonsive design
@@ -142,6 +143,6 @@ h1 {
     margin-top: 10px;
     font-family: $fontStyle;
   }
-
-  // End of contact page styling
 }
+// End of contact page styling
+//-----------------------------------------------------------------------------------------

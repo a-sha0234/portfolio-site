@@ -8,7 +8,7 @@ export default function Home() {
       <main className="information">
         <section className="information__self">
           <h2>Why front end development </h2>
-          <p>f</p>
+          <p>Hi, im Arun. My interest for front end development </p>
         </section>
         <section className="information__skills">
           <h2> Skill set</h2>
