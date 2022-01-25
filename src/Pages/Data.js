@@ -5,7 +5,7 @@
 const data = [
   {
     id: 1,
-    name: "Library Application",
+    name: "Library App",
     url: "https://github.com/a-sha0234/libary-application",
   },
   {

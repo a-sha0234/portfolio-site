@@ -37,11 +37,27 @@
   }
 }
 
+// End of home page styling
+//-----------------------------------------------------------------------------------------
+
+// Start of Portfolio page styling
+
+.card {
+  @include card;
+
+  &__button {
+    @include button;
+  }
+  &__arrow {
+    @include arrow;
+  }
+}
+
 //-----------------------------------------------------------------------------------------
 // handle reposonsive design
 //-----------------------------------------------------------------------------------------
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 580px) {
   // Start of home page styling
   .wrapper {
   }
@@ -74,24 +90,13 @@
   // Start of Portfolio page and card  styling
 
   .card {
-    display: flex;
-    margin-top: 30px;
-    justify-content: center;
-    height: 80px;
-    font-family: $fontStyle;
-    background-color: #ebebeb;
-    font-size: $fontSize;
+    @include card;
+
     &__button {
-      border: none;
-      background-color: #ebebeb;
-      margin-top: 10%;
-      font-family: $fontStyle;
-      font-size: $fontSize;
+      @include button;
     }
     &__arrow {
-      height: 30px;
-      width: 30px;
-      margin-left: 10px;
+      @include arrow;
     }
   }
 

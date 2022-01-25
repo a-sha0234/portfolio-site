@@ -15,5 +15,5 @@ export default function Portfolio() {
   // return jsx, call array
   //-----------------------------------------------------------------------------------------
 
-  return <div>{generateCards}</div>;
+  return <div className="wrapperCards">{generateCards}</div>;
 }
