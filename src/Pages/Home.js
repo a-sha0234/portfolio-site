@@ -8,7 +8,13 @@ export default function Home() {
       <main className="information">
         <section className="information__self">
           <h2>Why front end development </h2>
-          <p>Hi, im Arun. My interest for front end development </p>
+          <h3 style={{ margin: "20px" }}>Welcome!</h3>
+          <p style={{ margin: "20px", fontSize: "1.2rem" }}>
+            Hi, Im Arun. Im interested in front end development. Feel free to
+            checkout my portfolio,<br></br> this is just a small case of
+            projects that I have undertaken in my free time and be sure to get
+            in touch!
+          </p>
         </section>
         <section className="information__skills">
           <h2> Skill set</h2>
@@ -23,6 +29,10 @@ export default function Home() {
             <p> git version control </p>
             <p> npm </p>
             <p> webpack</p>
+            <p>Visual studio</p>
+            <p>windows</p>
+            <p>Github</p>
+            <p>Gitlab</p>
           </div>
         </section>
       </main>
