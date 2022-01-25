@@ -20,17 +20,17 @@ export default function Home() {
           <h2> Skill set</h2>
           <div className="information__skills__right">
             <p>Html5</p>
-            <p>css3</p>
-            <p>sass</p>
+            <p>Css3</p>
+            <p>Sass</p>
             <p>Javascript</p>
           </div>
           <div className="information__skills__left">
             <p>React js</p>
             <p> git version control </p>
             <p> npm </p>
-            <p> webpack</p>
+            <p> Webpack</p>
             <p>Visual studio</p>
-            <p>windows</p>
+            <p>Windows</p>
             <p>Github</p>
             <p>Gitlab</p>
           </div>
