@@ -6,7 +6,7 @@ This site showcases some of the projects I have already I have made and allows t
 
 
 # Table of Contents
-1. [General Information](#General Information)
+1. [General Information](#example1)
 2. [Technologies Used](#example2)
 3. [Features](#third-example)
 
