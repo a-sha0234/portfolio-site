@@ -15,7 +15,7 @@ This site showcases some of the projects I have already I have made and allows t
 7. [Project Status](#status-paragraph)
 8. [Room for improvements](#imporvements-paragraph)
 9. [Acknowledgements](#Acknowledgements-paragraph)
-10. [Contact](#contact-paragraph)
+10.[Contact](#contact-paragraph)
 
 
 
