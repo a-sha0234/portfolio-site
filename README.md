@@ -11,4 +11,6 @@ Up unitl this point I have learnt a lot of skills, so my goal for this project w
 
 
 ## Challanges I faced 
-At first I had trouble gettting the routing to work, the reason for this was the recent changes made 
+At first I had trouble gettting the routing to work, the reason for this was the recent changes, the newest version contains slightly different synatax to the previous, beacuse of this, a lot of tutorials on youtube or other websites were out of date.
+
+Another challange would be the 
