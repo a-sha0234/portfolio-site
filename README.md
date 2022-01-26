@@ -14,7 +14,7 @@ This site showcases some of the projects I have already I have made and allows t
 
 ## General Information
 ## Technologies Used
-## Third Example
+## Features
  
 
 
