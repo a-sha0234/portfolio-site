@@ -6,16 +6,13 @@ This site showcases some of the projects I have already I have made and allows t
 
 
 # Table of Contents
-1. [General Information](#example)
+1. [General Information](#General Information)
 2. [Technologies Used](#example2)
 3. [Features](#third-example)
 
 
 
-## General Information
-## Technologies Used
-## Features
- 
+
 
 
 ## Goals
@@ -29,4 +26,10 @@ Up unitl this point I have learnt a lot of skills, so my goal for this project w
 At first I had trouble gettting the routing to work, the reason for this was the recent changes, the newest version contains slightly different synatax to the previous, beacuse of this, a lot of tutorials on youtube or other websites were out of date. 
 
 
+
+
+## General Information
+## Technologies Used
+## Features
+ 
 
