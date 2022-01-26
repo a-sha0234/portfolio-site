@@ -46,7 +46,11 @@ This site showcases some of the projects I have already I have made and allows t
 ## Screenshots <a name="screenshot"></a>
 
 ## Setup <a name="setup-paragraph"></a>
-The first paragraph text
+Project Dependancies are listed in the package.json file: \practice reactjs\portfolio\package.json
+
+To set up this project on your local machine:
+1) 
+    
 
 ## Usage <a name="usage-paragraph"></a>
 The first paragraph text
