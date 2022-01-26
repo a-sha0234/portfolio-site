@@ -48,9 +48,16 @@ This site showcases some of the projects I have already I have made and allows t
 ## Setup <a name="setup-paragraph"></a>
 Project Dependancies are listed in the package.json file: \practice reactjs\portfolio\package.json
 
-To set up this project on your local machine:
-1) 
-    
+Run the following command in the command line: 
+
+```
+npm install
+```
+Then to start the application:
+
+```
+npm start
+```
 
 ## Usage <a name="usage-paragraph"></a>
 The first paragraph text
