@@ -1,8 +1,5 @@
 # portfolio-site
 
-## The Project
-This site showcases some of the projects I have already I have made and allows the viewer to view the code. It also has some contact details and some of my skills 
-
 
 
 # Table of contents
@@ -19,10 +16,6 @@ This site showcases some of the projects I have already I have made and allows t
 
 
 
-
-
-
-
 ## Goals
 Up unitl this point I have learnt a lot of skills, so my goal for this project was to put it all together, for instance using Sass and react. This is also my first project where I have used react routing which I wanted to get more familiar with. 
 
@@ -35,13 +28,20 @@ At first I had trouble gettting the routing to work, the reason for this was the
 
 
 ## Introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+This site showcases some of the projects I have already I have made and allows the viewer to view the code. It also has some contact details and some of my skills 
 
 ## Technologies Used <a name="paragraph1"></a>
-The first paragraph text
+1) Html5
+2) Css3
+3) Sass
+4) ReactJs
+5) Npm
+6) Git version control
+7) Github
 
 ## Features <a name="features-paragraph"></a>
-The first paragraph text
+1) Muliple pages
+2) ability to check out other projects Ive made 
 
 ## Screenshots <a name="screenshot"></a>
 
