@@ -48,17 +48,17 @@ The first paragraph text
 ## Setup <a name="setup-paragraph"></a>
 The first paragraph text
 
-## Usage <a name="#usage-paragraph"></a>
+## Usage <a name="usage-paragraph"></a>
 The first paragraph text
 
-## Status <a name="#status-paragraph"></a>
+## Status <a name="status-paragraph"></a>
 The first paragraph text
 
-## Room for improvements <a name="#imporvements-paragraph"></a>
+## Room for improvements <a name="imporvements-paragraph"></a>
 The first paragraph text
 
-## Acknowledgements <a name="#Acknowledgements-paragraph"></a>
+## Acknowledgements <a name="Acknowledgements-paragraph"></a>
 The first paragraph text
 
-## Contact <a name="#Contact-paragraph"></a>
+## Contact <a name="Contact-paragraph"></a>
 The first paragraph text
