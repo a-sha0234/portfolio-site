@@ -7,7 +7,15 @@ This site showcases some of the projects I have already I have made and allows t
 
 # Table of contents
 1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
+2. [Technologies Used](#paragraph1)
+3. [Features](#features-paragraph)
+4. [Screenshots](#screenshot)
+5. [Setup](#setup-paragraph)
+6. [Usage](#usage-paragraph)
+7. [Project Status](#status-paragraph)
+8. [Room for improvements](#imporvements-paragraph)
+9. [Acknowledgements](#Acknowledgements-paragraph)
+10. [Contact](#contaact-paragraph)
 
 
 
@@ -26,11 +34,25 @@ Up unitl this point I have learnt a lot of skills, so my goal for this project w
 At first I had trouble gettting the routing to work, the reason for this was the recent changes, the newest version contains slightly different synatax to the previous, beacuse of this, a lot of tutorials on youtube or other websites were out of date. 
 
 
-## This is the introduction <a name="introduction"></a>
+## Introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 
-## Some paragraph <a name="paragraph1"></a>
+## Technologies Used <a name="paragraph1"></a>
 The first paragraph text
 
+## Features <a name="features-paragraph"></a>
+The first paragraph text
 
+## Screenshots <a name="screenshot"></a>
 
+## Setup <a name="setup-paragraph"></a>
+
+## Usage <a name="#usage-paragraph"></a>
+
+## Status <a name="#status-paragraph"></a>
+
+## Room for improvements <a name="#imporvements-paragraph"></a>
+
+## Acknowledgements <a name="#Acknowledgements-paragraph"></a>
+
+## Contact <a name="#Contact-paragraph"></a>
