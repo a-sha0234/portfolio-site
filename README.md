@@ -63,13 +63,18 @@ npm start
 The first paragraph text
 
 ## Status <a name="status-paragraph"></a>
-The first paragraph text
+Currently in progress
 
 ## Room for improvements <a name="imporvements-paragraph"></a>
-The first paragraph text
+
+Room for improvement:
+1) Design of each page
+
+To do:
+1) add some screenshots of current projects in the portfolio page 
 
 ## Acknowledgements <a name="Acknowledgements-paragraph"></a>
 The first paragraph text
 
 ## Contact <a name="Contact-paragraph"></a>
-The first paragraph text
+Created by Arun Shaema, feel free to contact me 
