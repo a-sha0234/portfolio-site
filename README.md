@@ -10,11 +10,6 @@ This site showcases some of the projects I have already I have made and allows t
 2. [Some paragraph](#paragraph1)
 
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
 
 
 
@@ -31,10 +26,11 @@ Up unitl this point I have learnt a lot of skills, so my goal for this project w
 At first I had trouble gettting the routing to work, the reason for this was the recent changes, the newest version contains slightly different synatax to the previous, beacuse of this, a lot of tutorials on youtube or other websites were out of date. 
 
 
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 
 
-## General Information
-## Technologies Used
-## Features
- 
 
