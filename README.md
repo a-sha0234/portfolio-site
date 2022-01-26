@@ -5,11 +5,16 @@ This site showcases some of the projects I have already I have made and allows t
 
 
 
-# Table of Contents
-1. [General Information](#example1)
-2. [Technologies Used](#example2)
-3. [Features](#third-example)
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
 
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 
 
 
